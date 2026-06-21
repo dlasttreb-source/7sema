@@ -1,0 +1,2 @@
+Cuando se hace una petición GET /reportes, el servidor devuelve todos los reportes almacenados en el array.
+Al inicio el array está vacío, pero después de enviar datos con POST, los reportes aparecen listados en formato JSON.
